@@ -12,6 +12,11 @@ This repository contains two distinct components:
       - Uses Streamlit to create the UI.
       - Calls the OpenAI API to generate responses based on a predefined JSON dataset included in the system message.
       - Supports case-insensitive queries, ensuring that inputs like "how does the phil work?" are correctly handled.
+   
+<img width="845" alt="actual" src="https://github.com/user-attachments/assets/b43dd217-6dd1-4de4-9187-928451c21fe4" />
+
+<img width="802" alt="fallback" src="https://github.com/user-attachments/assets/09617e37-1762-4362-bc06-c8406e12ebe6" />
+
 
 2. task.c++
   - Purpose:
